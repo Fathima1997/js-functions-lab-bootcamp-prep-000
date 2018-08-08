@@ -1,1 +1,1 @@
-// write your code below!
+function happyHolidays(String) // write your code below!
