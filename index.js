@@ -1,1 +1,3 @@
-function happyHolidays(String) // write your code below!
+function happyHolidays(String) {
+return "Happy holiday!";// write your code below!
+}
