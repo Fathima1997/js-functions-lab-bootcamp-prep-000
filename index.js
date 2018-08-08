@@ -6,9 +6,14 @@ return "Happy holidays!";// write your code below!
 return 'Happy holidays, ${name}!';
 }
 */
+function happyHolidaysTo(name) {
+  return 'Happy holidays, ${name}!'
+}
+/*
 function happyHolidaysTo(name){
   return `Happy holidays, ${name}!`
 }
+*/
  function happyHolidayTo(holiday, name){
   return `Happy ${holiday}, ${name}!`
 }
